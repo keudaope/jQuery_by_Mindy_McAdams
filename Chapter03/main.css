@@ -1,0 +1,24 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+* {
+  box-sizing: inherit;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #333;
+  background: #fff9ef;
+  margin: 3rem;
+}
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: normal;
+  line-height: normal;
+  margin: 0 0 2rem 0;
+  font-size: 2.5rem;
+}
+
+img {
+  display: block;
+}

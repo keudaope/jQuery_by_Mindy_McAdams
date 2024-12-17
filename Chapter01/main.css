@@ -1,0 +1,36 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+* {
+  box-sizing: inherit;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #333;
+  background: #fff9ef;
+  margin: 3rem;
+}
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: normal;
+  line-height: normal;
+  margin: 0 0 2rem 0;
+  font-size: 2.5rem;
+}
+p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  margin: 0;
+  padding: 2rem;
+  background: #998463;
+  color: #f7f4ef;
+  max-width: 600px;
+}
+div {
+  background: #ffb53f;
+  text-align: center;
+  padding: 1rem 2rem;
+  margin: 0 0 1rem 0;
+  display: inline-block;
+}
