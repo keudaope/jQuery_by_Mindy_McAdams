@@ -22,8 +22,6 @@ $(document).ready(() => {
   const hideAmount = panelHeight - showAmount;
   console.log("Height of panel to be hidden: " + hideAmount);
 
-
-
   $("#chocolate").css("bottom", -hideAmount);
   console.log("Hidden height of panel: " + hideAmount);
 
